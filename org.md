@@ -16,11 +16,11 @@
     - 26/06/2022 - Fim CFP/Apoios/Call For Money
     - 24/07/2022 - Definição agenda das palestras e workshops
     - 25/07/2022 - Inicio divulgação for real
-    - 05/09/2022 - 1 Wordshop + 2 Palestras, host: fulano
-    - 06/09/2022 - 1 Wordshop + 2 Palestras, host: fulano
-    - 07/09/2022 - 1 Wordshop + 2 Palestras, host: fulano
-    - 08/09/2022 - 1 Wordshop + 2 Palestras, host: fulano
-    - 09/09/2022 - 1 Wordshop + 2 Palestras, host: fulano
+    - 05/09/2022 - 1 Workshop + 2 Palestras, host: fulano
+    - 06/09/2022 - 1 Workshop + 2 Palestras, host: fulano
+    - 07/09/2022 - 1 Workshop + 2 Palestras, host: fulano
+    - 08/09/2022 - 1 Workshop + 2 Palestras, host: fulano
+    - 09/09/2022 - 1 Workshop + 2 Palestras, host: fulano
     - 10/09/2022 - Primeiro dia CTF + 5 Palestras, host: fulano
     - 11/09/2022 - Segundo dia CTF + 5 Palestras, host: fulano
   - Atividades
@@ -42,6 +42,7 @@
     - Maki
     - Droneship - ctf infra
     - thauan - bot
+    - Josue
   - Melhorias
     - Criar niveis de patrocinio/parceria
     - Palestras dia util das 20h-22h e FDS agenda livre
