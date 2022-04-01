@@ -1,16 +1,16 @@
-1. Semana ARATU 2 (TBD)
-  1.1. Acertos
+- Semana ARATU 2 (TBD)
+  - Acertos
     - Palestras Tecnicas+
     - Palestras sobre mercado/carreira
     - Usar template nos slides
     - Ter patrocinio
     - 48h de CTF
-  1.2. Erros
+  - Erros
     - Não ter validação dos slides
     - Não ter guia do palestrante
     - Organização não centralizada das premiações
     - Não ter cortados as Palestras
-  1.3. Datas;
+  - Datas
     - 01/04/2022 - Pré divulgação/Inicio criação material para patrocinio
     - 04/04/2022 - Incio CFP/Apoios/Call For Money
     - 26/06/2022 - Fim CFP/Apoios/Call For Money
@@ -23,11 +23,11 @@
     - 09/09/2022 - 1 Wordshop + 2 Palestras, host: fulano
     - 10/09/2022 - Primeiro dia CTF + 5 Palestras, host: fulano
     - 11/09/2022 - Segundo dia CTF + 5 Palestras, host: fulano
-  1.4. Atividades;
+  - Atividades
     - 20 Palestras
     - 5 Workshops
     - 48h de CTF
-  1.5. Responsáveis;
+  - Responsáveis
     - Kardec - mkt
     - Afonso - ctf infra
     - Galito - talks/workshops
@@ -42,7 +42,7 @@
     - Maki
     - Droneship - ctf infra
     - thauan - bot
-  1.6. Melhorias
+  - Melhorias
     - Criar niveis de patrocinio/parceria
     - Palestras dia util das 20h-22h e FDS agenda livre
     - Criar agenda de workshops no discord
